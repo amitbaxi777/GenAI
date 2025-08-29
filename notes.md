@@ -23,4 +23,4 @@ It basically performs four key operations, reasoning, acting, persona, and plann
 ## Knowledge
 The LLM can also access external knowledge bases, such as databases or document repositories, to enrich its responses with accurate and up-to-date information. You have already seen a use case of RAG. This allows the agent to go beyond just its internal training data.
 
-![OCI AI Agent Architecture.](./images/oci_ai_agent_arch.png)
+![OCI AI Agent Architecture.](./images/oci_gen_ai_arch.png)
